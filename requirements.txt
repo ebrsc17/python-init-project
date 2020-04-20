@@ -1,0 +1,7 @@
+# Devel Modules
+sphinx
+jedi
+autopep8
+yapf
+black
+flake8
